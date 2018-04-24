@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">GameStrategyExam</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="coins_game_intro">
+        双方均有50初始筹码。双方轮流出示硬币\n
+        若双方均出示正面，则B支付A 3筹码\n
+        若双方均出示反面，则B支付A 1筹码\n
+        否则A支付B 2筹码
+    </string>
+
+    <string name="prisoner_dilemma_intro">
+        有A,B两个"囚犯"，初始资金均为80\n
+        若双方都坦白，则双方均罚款4\n
+        若双方均隐瞒，则双方均获得2\n
+        若有只一方坦白，则坦白者获得8，隐瞒者罚款8
+    </string>
+
+    <string name="nim_game_intro">
+        一堆n个物品\n
+        两人轮流取\n
+        每次取1至m个\n
+        最后取完者胜\n
+        n和m均为随机数
+    </string>
+
+    <string name="tourist_puzzle_intro">
+        一个人毁坏了两个旅行者价值位于70到100之间的瓶子\n
+        他打算赔偿，但是不知道确切价格\n
+        于是决定，让两个人分别写出瓶子的价格\n
+        如果两者一样，则按价格赔偿\n
+        如果不一样，则按照低价赔偿，并奖励低价者2，惩罚高价者2\n
+        两人初始有10元
+    </string>
+
+    <string name="shooters_puzzle_intro">
+        三个彼此憎恨的人决定决斗\n
+        A命中概率为0.8\n
+        B命中概率为0.6\n
+        C命中概率为0.4\n
+        三人同时开枪，谁能存活？
+    </string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="coins_game" type="id"/>
+    <item name="prisoner_dilemma" type="id"/>
+    <item name="nim_game" type="id"/>
+    <item name="tourist_puzzle" type="id"/>
+    <item name="shooters_puzzle" type="id"/>
+</resources>
